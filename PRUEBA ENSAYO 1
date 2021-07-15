@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="La Orden Secreta S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9922azFdKjEqdym0wytGZWt13HG.jpg" group-title="SERIES DRAMA",La Orden Secreta S01 E03
-http://ultra-premium-pro.xyz:8090/series/35megaplaytv/k1VGGuSC7c/2587.mkv
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7| Games of Thrones" tvg-logo="https://www.vippng.com/png/detail/44-445286_game-of-thrones-logo-png-transparent-images-game.png" group-title="24/7",24/7| Games of Thrones
+http://ultra-premium-pro.xyz:8090/35megaplaytv/k1VGGuSC7c/13862
