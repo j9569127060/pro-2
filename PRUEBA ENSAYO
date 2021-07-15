@@ -1,3 +1,432 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E01" tvg-logo="http://mylatinotv.com:8080/images/8dZVKFytdZAT0B5dMNrHxbZ9NrO_small.jpg" group-title="SMALLVILLE" pltv-subgroup="TEMPORADA 01",Smallville S01 E01
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E01" tvg-logo="http://mylatinotv.com:8080/images/8dZVKFytdZAT0B5dMNrHxbZ9NrO_small.jpg" group-title="SMALLVILLE",Smallville S01 E01
 http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63197.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E02" tvg-logo="http://mylatinotv.com:8080/images/8dZVKFytdZAT0B5dMNrHxbZ9NrO_small.jpg" group-title="SMALLVILLE",Smallville S01 E02
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63198.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E03" tvg-logo="http://mylatinotv.com:8080/images/8dZVKFytdZAT0B5dMNrHxbZ9NrO_small.jpg" group-title="SMALLVILLE",Smallville S01 E03
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63199.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E04" tvg-logo="http://mylatinotv.com:8080/images/8dZVKFytdZAT0B5dMNrHxbZ9NrO_small.jpg" group-title="SMALLVILLE",Smallville S01 E04
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63200.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E05" tvg-logo="http://mylatinotv.com:8080/images/8dZVKFytdZAT0B5dMNrHxbZ9NrO_small.jpg" group-title="SMALLVILLE",Smallville S01 E05
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63201.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E06" tvg-logo="http://mylatinotv.com:8080/images/8dZVKFytdZAT0B5dMNrHxbZ9NrO_small.jpg" group-title="SMALLVILLE",Smallville S01 E06
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63202.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E07" tvg-logo="http://mylatinotv.com:8080/images/8dZVKFytdZAT0B5dMNrHxbZ9NrO_small.jpg" group-title="SMALLVILLE",Smallville S01 E07
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63203.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E08" tvg-logo="http://mylatinotv.com:8080/images/8dZVKFytdZAT0B5dMNrHxbZ9NrO_small.jpg" group-title="SMALLVILLE",Smallville S01 E08
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63204.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E09" tvg-logo="http://mylatinotv.com:8080/images/8dZVKFytdZAT0B5dMNrHxbZ9NrO_small.jpg" group-title="SMALLVILLE",Smallville S01 E09
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63205.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E10" tvg-logo="http://mylatinotv.com:8080/images/8dZVKFytdZAT0B5dMNrHxbZ9NrO_small.jpg" group-title="SMALLVILLE",Smallville S01 E10
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63206.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E11" tvg-logo="http://mylatinotv.com:8080/images/8dZVKFytdZAT0B5dMNrHxbZ9NrO_small.jpg" group-title="SMALLVILLE",Smallville S01 E11
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63207.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E12" tvg-logo="http://mylatinotv.com:8080/images/8dZVKFytdZAT0B5dMNrHxbZ9NrO_small.jpg" group-title="SMALLVILLE",Smallville S01 E12
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63208.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E13" tvg-logo="http://mylatinotv.com:8080/images/8dZVKFytdZAT0B5dMNrHxbZ9NrO_small.jpg" group-title="SMALLVILLE",Smallville S01 E13
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63209.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E14" tvg-logo="http://mylatinotv.com:8080/images/8dZVKFytdZAT0B5dMNrHxbZ9NrO_small.jpg" group-title="SMALLVILLE",Smallville S01 E14
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63210.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUhJGETy2sec4vEkiqJ9eGeIywc.jpg" group-title="SMALLVILLE",Smallville S01 E15
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63211.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E16" tvg-logo="http://mylatinotv.com:8080/images/8dZVKFytdZAT0B5dMNrHxbZ9NrO_small.jpg" group-title="SMALLVILLE",Smallville S01 E16
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63212.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E17" tvg-logo="http://mylatinotv.com:8080/images/8dZVKFytdZAT0B5dMNrHxbZ9NrO_small.jpg" group-title="SMALLVILLE",Smallville S01 E17
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63213.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E18" tvg-logo="http://mylatinotv.com:8080/images/8dZVKFytdZAT0B5dMNrHxbZ9NrO_small.jpg" group-title="SSMALLVILLE",Smallville S01 E18
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63214.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E19" tvg-logo="http://mylatinotv.com:8080/images/8dZVKFytdZAT0B5dMNrHxbZ9NrO_small.jpg" group-title="SMALLVILLE",Smallville S01 E19
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63215.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E20" tvg-logo="http://mylatinotv.com:8080/images/8dZVKFytdZAT0B5dMNrHxbZ9NrO_small.jpg" group-title="SMALLVILLE",Smallville S01 E20
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63216.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S01 E21" tvg-logo="http://mylatinotv.com:8080/images/8dZVKFytdZAT0B5dMNrHxbZ9NrO_small.jpg" group-title="SMALLVILLE",Smallville S01 E21
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63217.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E01" tvg-logo="http://mylatinotv.com:8080/images/uSr3nf44jkWSswhNnToln9t1dLB_small.jpg" group-title="Series",Smallville S02 E01
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63218.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E02" tvg-logo="http://mylatinotv.com:8080/images/uSr3nf44jkWSswhNnToln9t1dLB_small.jpg" group-title="Series",Smallville S02 E02
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63219.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E03" tvg-logo="http://mylatinotv.com:8080/images/uSr3nf44jkWSswhNnToln9t1dLB_small.jpg" group-title="Series",Smallville S02 E03
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63220.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E04" tvg-logo="http://mylatinotv.com:8080/images/uSr3nf44jkWSswhNnToln9t1dLB_small.jpg" group-title="Series",Smallville S02 E04
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63221.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E05" tvg-logo="http://mylatinotv.com:8080/images/uSr3nf44jkWSswhNnToln9t1dLB_small.jpg" group-title="Series",Smallville S02 E05
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63222.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E06" tvg-logo="http://mylatinotv.com:8080/images/uSr3nf44jkWSswhNnToln9t1dLB_small.jpg" group-title="Series",Smallville S02 E06
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63223.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E07" tvg-logo="http://mylatinotv.com:8080/images/uSr3nf44jkWSswhNnToln9t1dLB_small.jpg" group-title="Series",Smallville S02 E07
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63224.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E08" tvg-logo="http://mylatinotv.com:8080/images/uSr3nf44jkWSswhNnToln9t1dLB_small.jpg" group-title="Series",Smallville S02 E08
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63225.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E09" tvg-logo="http://mylatinotv.com:8080/images/uSr3nf44jkWSswhNnToln9t1dLB_small.jpg" group-title="Series",Smallville S02 E09
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63226.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E10" tvg-logo="http://mylatinotv.com:8080/images/uSr3nf44jkWSswhNnToln9t1dLB_small.jpg" group-title="Series",Smallville S02 E10
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63227.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E11" tvg-logo="http://mylatinotv.com:8080/images/uSr3nf44jkWSswhNnToln9t1dLB_small.jpg" group-title="Series",Smallville S02 E11
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63228.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E12" tvg-logo="http://mylatinotv.com:8080/images/uSr3nf44jkWSswhNnToln9t1dLB_small.jpg" group-title="Series",Smallville S02 E12
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63229.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E13" tvg-logo="http://mylatinotv.com:8080/images/uSr3nf44jkWSswhNnToln9t1dLB_small.jpg" group-title="Series",Smallville S02 E13
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63230.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E14" tvg-logo="http://mylatinotv.com:8080/images/uSr3nf44jkWSswhNnToln9t1dLB_small.jpg" group-title="Series",Smallville S02 E14
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63231.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E15" tvg-logo="http://mylatinotv.com:8080/images/uSr3nf44jkWSswhNnToln9t1dLB_small.jpg" group-title="Series",Smallville S02 E15
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63232.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E16" tvg-logo="http://mylatinotv.com:8080/images/uSr3nf44jkWSswhNnToln9t1dLB_small.jpg" group-title="Series",Smallville S02 E16
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63233.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E17" tvg-logo="http://mylatinotv.com:8080/images/uSr3nf44jkWSswhNnToln9t1dLB_small.jpg" group-title="Series",Smallville S02 E17
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63234.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E18" tvg-logo="http://mylatinotv.com:8080/images/uSr3nf44jkWSswhNnToln9t1dLB_small.jpg" group-title="Series",Smallville S02 E18
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63235.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E19" tvg-logo="http://mylatinotv.com:8080/images/uSr3nf44jkWSswhNnToln9t1dLB_small.jpg" group-title="Series",Smallville S02 E19
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63236.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E20" tvg-logo="http://mylatinotv.com:8080/images/uSr3nf44jkWSswhNnToln9t1dLB_small.jpg" group-title="Series",Smallville S02 E20
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63237.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E21" tvg-logo="http://mylatinotv.com:8080/images/uSr3nf44jkWSswhNnToln9t1dLB_small.jpg" group-title="Series",Smallville S02 E21
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63238.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E22" tvg-logo="http://mylatinotv.com:8080/images/uSr3nf44jkWSswhNnToln9t1dLB_small.jpg" group-title="Series",Smallville S02 E22
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63239.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S02 E23" tvg-logo="http://mylatinotv.com:8080/images/uSr3nf44jkWSswhNnToln9t1dLB_small.jpg" group-title="Series",Smallville S02 E23
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63240.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E01" tvg-logo="http://mylatinotv.com:8080/images/f60xCocHvSKZE3hNh7JrlqVKg9V_small.jpg" group-title="Series",Smallville S03 E01
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63241.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E02" tvg-logo="http://mylatinotv.com:8080/images/f60xCocHvSKZE3hNh7JrlqVKg9V_small.jpg" group-title="Series",Smallville S03 E02
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63242.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E03" tvg-logo="http://mylatinotv.com:8080/images/f60xCocHvSKZE3hNh7JrlqVKg9V_small.jpg" group-title="Series",Smallville S03 E03
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63243.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E04" tvg-logo="http://mylatinotv.com:8080/images/f60xCocHvSKZE3hNh7JrlqVKg9V_small.jpg" group-title="Series",Smallville S03 E04
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63244.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E05" tvg-logo="http://mylatinotv.com:8080/images/f60xCocHvSKZE3hNh7JrlqVKg9V_small.jpg" group-title="Series",Smallville S03 E05
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63245.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E06" tvg-logo="http://mylatinotv.com:8080/images/f60xCocHvSKZE3hNh7JrlqVKg9V_small.jpg" group-title="Series",Smallville S03 E06
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63246.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E07" tvg-logo="http://mylatinotv.com:8080/images/f60xCocHvSKZE3hNh7JrlqVKg9V_small.jpg" group-title="Series",Smallville S03 E07
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63247.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E08" tvg-logo="http://mylatinotv.com:8080/images/f60xCocHvSKZE3hNh7JrlqVKg9V_small.jpg" group-title="Series",Smallville S03 E08
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63248.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E09" tvg-logo="http://mylatinotv.com:8080/images/f60xCocHvSKZE3hNh7JrlqVKg9V_small.jpg" group-title="Series",Smallville S03 E09
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63249.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E10" tvg-logo="http://mylatinotv.com:8080/images/f60xCocHvSKZE3hNh7JrlqVKg9V_small.jpg" group-title="Series",Smallville S03 E10
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63250.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E11" tvg-logo="http://mylatinotv.com:8080/images/f60xCocHvSKZE3hNh7JrlqVKg9V_small.jpg" group-title="Series",Smallville S03 E11
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63251.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E12" tvg-logo="http://mylatinotv.com:8080/images/f60xCocHvSKZE3hNh7JrlqVKg9V_small.jpg" group-title="Series",Smallville S03 E12
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63252.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E13" tvg-logo="http://mylatinotv.com:8080/images/f60xCocHvSKZE3hNh7JrlqVKg9V_small.jpg" group-title="Series",Smallville S03 E13
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63253.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E14" tvg-logo="http://mylatinotv.com:8080/images/f60xCocHvSKZE3hNh7JrlqVKg9V_small.jpg" group-title="Series",Smallville S03 E14
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63254.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E15" tvg-logo="http://mylatinotv.com:8080/images/f60xCocHvSKZE3hNh7JrlqVKg9V_small.jpg" group-title="Series",Smallville S03 E15
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63255.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E16" tvg-logo="http://mylatinotv.com:8080/images/f60xCocHvSKZE3hNh7JrlqVKg9V_small.jpg" group-title="Series",Smallville S03 E16
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63256.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E17" tvg-logo="http://mylatinotv.com:8080/images/f60xCocHvSKZE3hNh7JrlqVKg9V_small.jpg" group-title="Series",Smallville S03 E17
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63257.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E18" tvg-logo="http://mylatinotv.com:8080/images/f60xCocHvSKZE3hNh7JrlqVKg9V_small.jpg" group-title="Series",Smallville S03 E18
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63258.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E19" tvg-logo="http://mylatinotv.com:8080/images/f60xCocHvSKZE3hNh7JrlqVKg9V_small.jpg" group-title="Series",Smallville S03 E19
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63259.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E20" tvg-logo="http://mylatinotv.com:8080/images/f60xCocHvSKZE3hNh7JrlqVKg9V_small.jpg" group-title="Series",Smallville S03 E20
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63260.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E21" tvg-logo="http://mylatinotv.com:8080/images/f60xCocHvSKZE3hNh7JrlqVKg9V_small.jpg" group-title="Series",Smallville S03 E21
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63261.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S03 E22" tvg-logo="http://mylatinotv.com:8080/images/f60xCocHvSKZE3hNh7JrlqVKg9V_small.jpg" group-title="Series",Smallville S03 E22
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63262.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E01" tvg-logo="http://mylatinotv.com:8080/images/2ZzglX8AqlWlvjGxOehxkEuWU4Y_small.jpg" group-title="Series",Smallville S04 E01
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63263.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E02" tvg-logo="http://mylatinotv.com:8080/images/2ZzglX8AqlWlvjGxOehxkEuWU4Y_small.jpg" group-title="Series",Smallville S04 E02
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63264.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E03" tvg-logo="http://mylatinotv.com:8080/images/2ZzglX8AqlWlvjGxOehxkEuWU4Y_small.jpg" group-title="Series",Smallville S04 E03
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63265.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E04" tvg-logo="http://mylatinotv.com:8080/images/2ZzglX8AqlWlvjGxOehxkEuWU4Y_small.jpg" group-title="Series",Smallville S04 E04
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63266.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E05" tvg-logo="http://mylatinotv.com:8080/images/2ZzglX8AqlWlvjGxOehxkEuWU4Y_small.jpg" group-title="Series",Smallville S04 E05
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63267.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E06" tvg-logo="http://mylatinotv.com:8080/images/2ZzglX8AqlWlvjGxOehxkEuWU4Y_small.jpg" group-title="Series",Smallville S04 E06
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63268.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E07" tvg-logo="http://mylatinotv.com:8080/images/2ZzglX8AqlWlvjGxOehxkEuWU4Y_small.jpg" group-title="Series",Smallville S04 E07
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63269.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E08" tvg-logo="http://mylatinotv.com:8080/images/2ZzglX8AqlWlvjGxOehxkEuWU4Y_small.jpg" group-title="Series",Smallville S04 E08
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63270.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E09" tvg-logo="http://mylatinotv.com:8080/images/2ZzglX8AqlWlvjGxOehxkEuWU4Y_small.jpg" group-title="Series",Smallville S04 E09
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63271.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E10" tvg-logo="http://mylatinotv.com:8080/images/2ZzglX8AqlWlvjGxOehxkEuWU4Y_small.jpg" group-title="Series",Smallville S04 E10
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63272.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E11" tvg-logo="http://mylatinotv.com:8080/images/2ZzglX8AqlWlvjGxOehxkEuWU4Y_small.jpg" group-title="Series",Smallville S04 E11
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63273.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E12" tvg-logo="http://mylatinotv.com:8080/images/2ZzglX8AqlWlvjGxOehxkEuWU4Y_small.jpg" group-title="Series",Smallville S04 E12
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63274.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E13" tvg-logo="http://mylatinotv.com:8080/images/2ZzglX8AqlWlvjGxOehxkEuWU4Y_small.jpg" group-title="Series",Smallville S04 E13
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63275.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E14" tvg-logo="http://mylatinotv.com:8080/images/2ZzglX8AqlWlvjGxOehxkEuWU4Y_small.jpg" group-title="Series",Smallville S04 E14
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63276.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E15" tvg-logo="http://mylatinotv.com:8080/images/2ZzglX8AqlWlvjGxOehxkEuWU4Y_small.jpg" group-title="Series",Smallville S04 E15
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63277.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E16" tvg-logo="http://mylatinotv.com:8080/images/2ZzglX8AqlWlvjGxOehxkEuWU4Y_small.jpg" group-title="Series",Smallville S04 E16
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63278.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E17" tvg-logo="http://mylatinotv.com:8080/images/2ZzglX8AqlWlvjGxOehxkEuWU4Y_small.jpg" group-title="Series",Smallville S04 E17
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63279.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E18" tvg-logo="http://mylatinotv.com:8080/images/2ZzglX8AqlWlvjGxOehxkEuWU4Y_small.jpg" group-title="Series",Smallville S04 E18
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63280.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E19" tvg-logo="http://mylatinotv.com:8080/images/2ZzglX8AqlWlvjGxOehxkEuWU4Y_small.jpg" group-title="Series",Smallville S04 E19
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63281.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E20" tvg-logo="http://mylatinotv.com:8080/images/2ZzglX8AqlWlvjGxOehxkEuWU4Y_small.jpg" group-title="Series",Smallville S04 E20
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63282.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E21" tvg-logo="http://mylatinotv.com:8080/images/2ZzglX8AqlWlvjGxOehxkEuWU4Y_small.jpg" group-title="Series",Smallville S04 E21
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63283.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S04 E22" tvg-logo="http://mylatinotv.com:8080/images/2ZzglX8AqlWlvjGxOehxkEuWU4Y_small.jpg" group-title="Series",Smallville S04 E22
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63284.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E01" tvg-logo="http://mylatinotv.com:8080/images/ssd1X4oehoyv7AU75hwoGGX75nS_small.jpg" group-title="Series",Smallville S05 E01
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63285.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E02" tvg-logo="http://mylatinotv.com:8080/images/ssd1X4oehoyv7AU75hwoGGX75nS_small.jpg" group-title="Series",Smallville S05 E02
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63286.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E03" tvg-logo="http://mylatinotv.com:8080/images/ssd1X4oehoyv7AU75hwoGGX75nS_small.jpg" group-title="Series",Smallville S05 E03
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63287.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E04" tvg-logo="http://mylatinotv.com:8080/images/ssd1X4oehoyv7AU75hwoGGX75nS_small.jpg" group-title="Series",Smallville S05 E04
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63288.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E05" tvg-logo="http://mylatinotv.com:8080/images/ssd1X4oehoyv7AU75hwoGGX75nS_small.jpg" group-title="Series",Smallville S05 E05
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63289.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E06" tvg-logo="http://mylatinotv.com:8080/images/ssd1X4oehoyv7AU75hwoGGX75nS_small.jpg" group-title="Series",Smallville S05 E06
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63290.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E07" tvg-logo="http://mylatinotv.com:8080/images/ssd1X4oehoyv7AU75hwoGGX75nS_small.jpg" group-title="Series",Smallville S05 E07
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63291.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E08" tvg-logo="http://mylatinotv.com:8080/images/ssd1X4oehoyv7AU75hwoGGX75nS_small.jpg" group-title="Series",Smallville S05 E08
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63292.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E09" tvg-logo="http://mylatinotv.com:8080/images/ssd1X4oehoyv7AU75hwoGGX75nS_small.jpg" group-title="Series",Smallville S05 E09
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63293.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E10" tvg-logo="http://mylatinotv.com:8080/images/ssd1X4oehoyv7AU75hwoGGX75nS_small.jpg" group-title="Series",Smallville S05 E10
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63294.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E11" tvg-logo="http://mylatinotv.com:8080/images/ssd1X4oehoyv7AU75hwoGGX75nS_small.jpg" group-title="Series",Smallville S05 E11
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63295.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E12" tvg-logo="http://mylatinotv.com:8080/images/ssd1X4oehoyv7AU75hwoGGX75nS_small.jpg" group-title="Series",Smallville S05 E12
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63296.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E13" tvg-logo="http://mylatinotv.com:8080/images/ssd1X4oehoyv7AU75hwoGGX75nS_small.jpg" group-title="Series",Smallville S05 E13
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63297.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E14" tvg-logo="http://mylatinotv.com:8080/images/ssd1X4oehoyv7AU75hwoGGX75nS_small.jpg" group-title="Series",Smallville S05 E14
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63298.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E15" tvg-logo="http://mylatinotv.com:8080/images/ssd1X4oehoyv7AU75hwoGGX75nS_small.jpg" group-title="Series",Smallville S05 E15
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63299.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E16" tvg-logo="http://mylatinotv.com:8080/images/ssd1X4oehoyv7AU75hwoGGX75nS_small.jpg" group-title="Series",Smallville S05 E16
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63300.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E17" tvg-logo="http://mylatinotv.com:8080/images/ssd1X4oehoyv7AU75hwoGGX75nS_small.jpg" group-title="Series",Smallville S05 E17
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63301.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E18" tvg-logo="http://mylatinotv.com:8080/images/ssd1X4oehoyv7AU75hwoGGX75nS_small.jpg" group-title="Series",Smallville S05 E18
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63302.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E19" tvg-logo="http://mylatinotv.com:8080/images/ssd1X4oehoyv7AU75hwoGGX75nS_small.jpg" group-title="Series",Smallville S05 E19
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63303.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E20" tvg-logo="http://mylatinotv.com:8080/images/ssd1X4oehoyv7AU75hwoGGX75nS_small.jpg" group-title="Series",Smallville S05 E20
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63304.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E21" tvg-logo="http://mylatinotv.com:8080/images/ssd1X4oehoyv7AU75hwoGGX75nS_small.jpg" group-title="Series",Smallville S05 E21
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63305.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S05 E22" tvg-logo="http://mylatinotv.com:8080/images/ssd1X4oehoyv7AU75hwoGGX75nS_small.jpg" group-title="Series",Smallville S05 E22
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63306.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E01" tvg-logo="http://mylatinotv.com:8080/images/r8xOSL0V4srx6KrWjgYY0ZqZfFS_small.jpg" group-title="Series",Smallville S06 E01
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63307.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E02" tvg-logo="http://mylatinotv.com:8080/images/r8xOSL0V4srx6KrWjgYY0ZqZfFS_small.jpg" group-title="Series",Smallville S06 E02
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63308.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E03" tvg-logo="http://mylatinotv.com:8080/images/r8xOSL0V4srx6KrWjgYY0ZqZfFS_small.jpg" group-title="Series",Smallville S06 E03
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63309.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E04" tvg-logo="http://mylatinotv.com:8080/images/r8xOSL0V4srx6KrWjgYY0ZqZfFS_small.jpg" group-title="Series",Smallville S06 E04
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63310.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E05" tvg-logo="http://mylatinotv.com:8080/images/r8xOSL0V4srx6KrWjgYY0ZqZfFS_small.jpg" group-title="Series",Smallville S06 E05
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63311.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E06" tvg-logo="http://mylatinotv.com:8080/images/r8xOSL0V4srx6KrWjgYY0ZqZfFS_small.jpg" group-title="Series",Smallville S06 E06
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63312.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E07" tvg-logo="http://mylatinotv.com:8080/images/r8xOSL0V4srx6KrWjgYY0ZqZfFS_small.jpg" group-title="Series",Smallville S06 E07
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63313.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E08" tvg-logo="http://mylatinotv.com:8080/images/r8xOSL0V4srx6KrWjgYY0ZqZfFS_small.jpg" group-title="Series",Smallville S06 E08
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63314.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E09" tvg-logo="http://mylatinotv.com:8080/images/r8xOSL0V4srx6KrWjgYY0ZqZfFS_small.jpg" group-title="Series",Smallville S06 E09
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63315.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E10" tvg-logo="http://mylatinotv.com:8080/images/r8xOSL0V4srx6KrWjgYY0ZqZfFS_small.jpg" group-title="Series",Smallville S06 E10
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63316.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E11" tvg-logo="http://mylatinotv.com:8080/images/r8xOSL0V4srx6KrWjgYY0ZqZfFS_small.jpg" group-title="Series",Smallville S06 E11
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E12" tvg-logo="http://mylatinotv.com:8080/images/r8xOSL0V4srx6KrWjgYY0ZqZfFS_small.jpg" group-title="Series",Smallville S06 E12
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63318.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E13" tvg-logo="http://mylatinotv.com:8080/images/r8xOSL0V4srx6KrWjgYY0ZqZfFS_small.jpg" group-title="Series",Smallville S06 E13
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63319.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E14" tvg-logo="http://mylatinotv.com:8080/images/r8xOSL0V4srx6KrWjgYY0ZqZfFS_small.jpg" group-title="Series",Smallville S06 E14
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63320.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E15" tvg-logo="http://mylatinotv.com:8080/images/r8xOSL0V4srx6KrWjgYY0ZqZfFS_small.jpg" group-title="Series",Smallville S06 E15
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63321.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E16" tvg-logo="http://mylatinotv.com:8080/images/r8xOSL0V4srx6KrWjgYY0ZqZfFS_small.jpg" group-title="Series",Smallville S06 E16
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63322.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E17" tvg-logo="http://mylatinotv.com:8080/images/r8xOSL0V4srx6KrWjgYY0ZqZfFS_small.jpg" group-title="Series",Smallville S06 E17
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E18" tvg-logo="http://mylatinotv.com:8080/images/r8xOSL0V4srx6KrWjgYY0ZqZfFS_small.jpg" group-title="Series",Smallville S06 E18
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63324.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E19" tvg-logo="http://mylatinotv.com:8080/images/r8xOSL0V4srx6KrWjgYY0ZqZfFS_small.jpg" group-title="Series",Smallville S06 E19
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63325.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E20" tvg-logo="http://mylatinotv.com:8080/images/r8xOSL0V4srx6KrWjgYY0ZqZfFS_small.jpg" group-title="Series",Smallville S06 E20
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63326.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E21" tvg-logo="http://mylatinotv.com:8080/images/r8xOSL0V4srx6KrWjgYY0ZqZfFS_small.jpg" group-title="Series",Smallville S06 E21
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63327.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S06 E22" tvg-logo="http://mylatinotv.com:8080/images/r8xOSL0V4srx6KrWjgYY0ZqZfFS_small.jpg" group-title="Series",Smallville S06 E22
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63328.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E01" tvg-logo="http://mylatinotv.com:8080/images/6lGHd6lBbpEkoq5pgI8XDRy2WYB_small.jpg" group-title="Series",Smallville S07 E01
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E02" tvg-logo="http://mylatinotv.com:8080/images/6lGHd6lBbpEkoq5pgI8XDRy2WYB_small.jpg" group-title="Series",Smallville S07 E02
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63330.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E03" tvg-logo="http://mylatinotv.com:8080/images/6lGHd6lBbpEkoq5pgI8XDRy2WYB_small.jpg" group-title="Series",Smallville S07 E03
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63331.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E04" tvg-logo="http://mylatinotv.com:8080/images/6lGHd6lBbpEkoq5pgI8XDRy2WYB_small.jpg" group-title="Series",Smallville S07 E04
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63332.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E05" tvg-logo="http://mylatinotv.com:8080/images/6lGHd6lBbpEkoq5pgI8XDRy2WYB_small.jpg" group-title="Series",Smallville S07 E05
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63333.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E06" tvg-logo="http://mylatinotv.com:8080/images/6lGHd6lBbpEkoq5pgI8XDRy2WYB_small.jpg" group-title="Series",Smallville S07 E06
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63334.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E07" tvg-logo="http://mylatinotv.com:8080/images/6lGHd6lBbpEkoq5pgI8XDRy2WYB_small.jpg" group-title="Series",Smallville S07 E07
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63335.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E08" tvg-logo="http://mylatinotv.com:8080/images/6lGHd6lBbpEkoq5pgI8XDRy2WYB_small.jpg" group-title="Series",Smallville S07 E08
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63336.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E09" tvg-logo="http://mylatinotv.com:8080/images/6lGHd6lBbpEkoq5pgI8XDRy2WYB_small.jpg" group-title="Series",Smallville S07 E09
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E10" tvg-logo="http://mylatinotv.com:8080/images/6lGHd6lBbpEkoq5pgI8XDRy2WYB_small.jpg" group-title="Series",Smallville S07 E10
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E11" tvg-logo="http://mylatinotv.com:8080/images/6lGHd6lBbpEkoq5pgI8XDRy2WYB_small.jpg" group-title="Series",Smallville S07 E11
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E12" tvg-logo="http://mylatinotv.com:8080/images/6lGHd6lBbpEkoq5pgI8XDRy2WYB_small.jpg" group-title="Series",Smallville S07 E12
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63340.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E13" tvg-logo="http://mylatinotv.com:8080/images/6lGHd6lBbpEkoq5pgI8XDRy2WYB_small.jpg" group-title="Series",Smallville S07 E13
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63341.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E14" tvg-logo="http://mylatinotv.com:8080/images/6lGHd6lBbpEkoq5pgI8XDRy2WYB_small.jpg" group-title="Series",Smallville S07 E14
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63342.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E15" tvg-logo="http://mylatinotv.com:8080/images/6lGHd6lBbpEkoq5pgI8XDRy2WYB_small.jpg" group-title="Series",Smallville S07 E15
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63343.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E16" tvg-logo="http://mylatinotv.com:8080/images/6lGHd6lBbpEkoq5pgI8XDRy2WYB_small.jpg" group-title="Series",Smallville S07 E16
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63344.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E17" tvg-logo="http://mylatinotv.com:8080/images/6lGHd6lBbpEkoq5pgI8XDRy2WYB_small.jpg" group-title="Series",Smallville S07 E17
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63345.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E18" tvg-logo="http://mylatinotv.com:8080/images/6lGHd6lBbpEkoq5pgI8XDRy2WYB_small.jpg" group-title="Series",Smallville S07 E18
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63346.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E19" tvg-logo="http://mylatinotv.com:8080/images/6lGHd6lBbpEkoq5pgI8XDRy2WYB_small.jpg" group-title="Series",Smallville S07 E19
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63347.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S07 E20" tvg-logo="http://mylatinotv.com:8080/images/6lGHd6lBbpEkoq5pgI8XDRy2WYB_small.jpg" group-title="Series",Smallville S07 E20
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63348.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E01" tvg-logo="http://mylatinotv.com:8080/images/jqEDADJiQbdtLMLSoXVulSiQkfh_small.jpg" group-title="Series",Smallville S08 E01
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63349.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E02" tvg-logo="http://mylatinotv.com:8080/images/jqEDADJiQbdtLMLSoXVulSiQkfh_small.jpg" group-title="Series",Smallville S08 E02
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63350.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E03" tvg-logo="http://mylatinotv.com:8080/images/jqEDADJiQbdtLMLSoXVulSiQkfh_small.jpg" group-title="Series",Smallville S08 E03
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63351.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E04" tvg-logo="http://mylatinotv.com:8080/images/jqEDADJiQbdtLMLSoXVulSiQkfh_small.jpg" group-title="Series",Smallville S08 E04
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63352.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E05" tvg-logo="http://mylatinotv.com:8080/images/jqEDADJiQbdtLMLSoXVulSiQkfh_small.jpg" group-title="Series",Smallville S08 E05
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63353.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E06" tvg-logo="http://mylatinotv.com:8080/images/jqEDADJiQbdtLMLSoXVulSiQkfh_small.jpg" group-title="Series",Smallville S08 E06
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63354.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E07" tvg-logo="http://mylatinotv.com:8080/images/jqEDADJiQbdtLMLSoXVulSiQkfh_small.jpg" group-title="Series",Smallville S08 E07
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63355.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E08" tvg-logo="http://mylatinotv.com:8080/images/jqEDADJiQbdtLMLSoXVulSiQkfh_small.jpg" group-title="Series",Smallville S08 E08
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63356.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E09" tvg-logo="http://mylatinotv.com:8080/images/jqEDADJiQbdtLMLSoXVulSiQkfh_small.jpg" group-title="Series",Smallville S08 E09
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63357.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E10" tvg-logo="http://mylatinotv.com:8080/images/jqEDADJiQbdtLMLSoXVulSiQkfh_small.jpg" group-title="Series",Smallville S08 E10
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63358.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E11" tvg-logo="http://mylatinotv.com:8080/images/jqEDADJiQbdtLMLSoXVulSiQkfh_small.jpg" group-title="Series",Smallville S08 E11
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63359.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E12" tvg-logo="http://mylatinotv.com:8080/images/jqEDADJiQbdtLMLSoXVulSiQkfh_small.jpg" group-title="Series",Smallville S08 E12
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63360.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E13" tvg-logo="http://mylatinotv.com:8080/images/jqEDADJiQbdtLMLSoXVulSiQkfh_small.jpg" group-title="Series",Smallville S08 E13
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63361.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E14" tvg-logo="http://mylatinotv.com:8080/images/jqEDADJiQbdtLMLSoXVulSiQkfh_small.jpg" group-title="Series",Smallville S08 E14
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63362.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E15" tvg-logo="http://mylatinotv.com:8080/images/jqEDADJiQbdtLMLSoXVulSiQkfh_small.jpg" group-title="Series",Smallville S08 E15
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63363.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E16" tvg-logo="http://mylatinotv.com:8080/images/jqEDADJiQbdtLMLSoXVulSiQkfh_small.jpg" group-title="Series",Smallville S08 E16
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63364.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E17" tvg-logo="http://mylatinotv.com:8080/images/jqEDADJiQbdtLMLSoXVulSiQkfh_small.jpg" group-title="Series",Smallville S08 E17
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63365.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E18" tvg-logo="http://mylatinotv.com:8080/images/jqEDADJiQbdtLMLSoXVulSiQkfh_small.jpg" group-title="Series",Smallville S08 E18
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63366.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E19" tvg-logo="http://mylatinotv.com:8080/images/jqEDADJiQbdtLMLSoXVulSiQkfh_small.jpg" group-title="Series",Smallville S08 E19
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63367.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E20" tvg-logo="http://mylatinotv.com:8080/images/jqEDADJiQbdtLMLSoXVulSiQkfh_small.jpg" group-title="Series",Smallville S08 E20
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63368.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E21" tvg-logo="http://mylatinotv.com:8080/images/jqEDADJiQbdtLMLSoXVulSiQkfh_small.jpg" group-title="Series",Smallville S08 E21
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63369.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S08 E22" tvg-logo="http://mylatinotv.com:8080/images/jqEDADJiQbdtLMLSoXVulSiQkfh_small.jpg" group-title="Series",Smallville S08 E22
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/63370.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S09 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ydfsuJTkrzviZA8vuN1PiCwDHG5.jpg" group-title="Series",Smallville S09 E01
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148449.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S09 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uftQS6dAx5xNVG0htRqMnQVRJ6W.jpg" group-title="Series",Smallville S09 E02
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148450.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S09 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c77IXxzFgqBg2c002DHwGcY5R5g.jpg" group-title="Series",Smallville S09 E03
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148451.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S09 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/suicCwrnX0agpF7OSG0uUtaabKg.jpg" group-title="Series",Smallville S09 E04
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148452.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S09 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wnPYoF8tCqf4aYnCJAXQq8MJ0La.jpg" group-title="Series",Smallville S09 E05
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148453.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S09 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7xzxZrE2rqhAHf19tm7IazS7lO.jpg" group-title="Series",Smallville S09 E06
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148454.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S09 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1K3w2J89dFmaOhgJGn7CVoBTpXU.jpg" group-title="Series",Smallville S09 E07
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148455.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S09 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsozzIKFBtNFxdFSsuMs9KmtN2r.jpg" group-title="Series",Smallville S09 E08
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148456.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S09 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vq3ugTNvluznXSulUrh644fwIuT.jpg" group-title="Series",Smallville S09 E09
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148457.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S09 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pkWhpK7xQSzymERKP3PUWu9t5hB.jpg" group-title="Series",Smallville S09 E10
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148458.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S09 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/meYJjWLxI8iy1LH33wpwHlUJXS6.jpg" group-title="Series",Smallville S09 E11
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148459.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S09 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/22lcoypm3yJbKBbjlQNokv2J3vL.jpg" group-title="Series",Smallville S09 E12
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148460.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S09 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MIcgdgrFchkskGN04zqsJRuPYl.jpg" group-title="Series",Smallville S09 E13
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148461.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S09 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DiyT3xzPe2XyX8a6IJ5exejHvd.jpg" group-title="Series",Smallville S09 E14
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148462.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S09 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rdDLumWlZDzo8cMX49TrFsvwgX4.jpg" group-title="Series",Smallville S09 E15
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148463.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S09 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/39xTbomeyFOjwCmalahfgMtG3dw.jpg" group-title="Series",Smallville S09 E16
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148464.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S09 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AiiVvi8cGqxlIYyBRQSg4h4lbfF.jpg" group-title="Series",Smallville S09 E17
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148465.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S09 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ih0Us8panjxtpJjN4UozM2ZgWMg.jpg" group-title="Series",Smallville S09 E18
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148466.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S09 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbnDD1zCs4tv2q17x7RNc6hpcbR.jpg" group-title="Series",Smallville S09 E19
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148467.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S09 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dqcmQ7jZwCVmzOeaXfwVX6lraPP.jpg" group-title="Series",Smallville S09 E20
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148468.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S09 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/llmi30cNOjQCfycrhL2GQfZ1GPC.jpg" group-title="Series",Smallville S09 E21
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148469.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S10 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCzDqyNPwEcTYV9Pxl8nTFXbiWO.jpg" group-title="Series",Smallville S10 E01
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148471.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S10 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urgIfkubvqwsGjF5bW4M4dLaYj8.jpg" group-title="Series",Smallville S10 E02
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148472.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S10 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZ4SX2pJuBHJsrPP4eFi65eqcUz.jpg" group-title="Series",Smallville S10 E03
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148473.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S10 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2jehmfc1SsbGsejux3f3ZU5pVR.jpg" group-title="Series",Smallville S10 E04
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148474.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S10 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMW2IwsXFacqA0CW8VY1FR05xup.jpg" group-title="Series",Smallville S10 E05
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148475.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S10 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qfjzIcHiiR3GAAuRHMw94EfHSHd.jpg" group-title="Series",Smallville S10 E06
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148476.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S10 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ry5HrQ1VT8Swr8VxNzq4W5iTzJc.jpg" group-title="Series",Smallville S10 E07
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148477.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S10 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82Xo4jYzwbDpRDXhMnACZvsf2Mx.jpg" group-title="Series",Smallville S10 E08
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148478.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S10 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZBrqEATaddefAKqfryZC3YgpGG.jpg" group-title="Series",Smallville S10 E09
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148479.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S10 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgFicXQ00z2hGDCCslYk6tLt8kb.jpg" group-title="Series",Smallville S10 E10
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148480.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S10 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbaYCF7kAFqEmGIcVC8tt5g5a05.jpg" group-title="Series",Smallville S10 E11
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148481.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S10 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p51QnRqU2woLQNuLXSGxbUMi2kD.jpg" group-title="Series",Smallville S10 E12
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148482.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S10 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hb7VYrKHZiEuSgVBi81Hpv3Pkd8.jpg" group-title="Series",Smallville S10 E13
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148483.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S10 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwO4pY5iVdlNZQ1E5YQ1jwP8GZV.jpg" group-title="Series",Smallville S10 E14
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148484.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S10 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xqUmxflXliGpL8cNBfUOPeG0dgA.jpg" group-title="Series",Smallville S10 E15
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148485.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S10 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhLUU0TxTaMsylK7mm7zBAaLqls.jpg" group-title="Series",Smallville S10 E16
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148486.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S10 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avvcxiHMOCvxrZCXmlUT6IC8hvi.jpg" group-title="Series",Smallville S10 E17
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148487.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S10 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crLOcezxagphuIpcz11fCi1CQ9E.jpg" group-title="Series",Smallville S10 E18
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148488.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S10 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8uM5ZjSalHmvzn5JxbOnlLh8kBo.jpg" group-title="Series",Smallville S10 E19
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148489.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S10 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w4mFkOcr5wiAxdnGa8ZonM0g2Rl.jpg" group-title="Series",Smallville S10 E20
+http://star-flix.net:8080/series/26megatrio/XzXShBrbNZ/1148490.avi
+#EXTINF:-1 tvg-id="" tvg-name="Smallville S10 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpVPZF246R86wysL5Qm3ueWhXya.jpg" group-title="Series",Smallville S10 E21
